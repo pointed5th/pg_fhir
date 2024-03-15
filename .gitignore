@@ -1,0 +1,4 @@
+*.o
+*.sql
+*.so
+.DS_Store

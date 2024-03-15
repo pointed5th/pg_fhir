@@ -1,0 +1,5 @@
+# fhirx postgres extension
+comment = 'FHIR helper functions'
+default_version = '1.0'
+module_pathname = '$libdir/fhirx'
+relocatable = true
